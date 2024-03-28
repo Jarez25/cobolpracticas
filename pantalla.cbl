@@ -13,5 +13,6 @@
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
             DISPLAY variable-numerica-signo
+            DISPLAY variable-de-numero-entero
             STOP RUN.
        END PROGRAM YOUR-PROGRAM-NAME.
